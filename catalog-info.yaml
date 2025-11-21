@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-boot3-migrated-2025-11-21-1445
+  description: A Spring Boot 3 application migrated to the latest version, designed to leverage new features and improvements for enhanced performance and scalability.
+  annotations:
+    github.com/project-slug: Ayush-Singh3/spring-boot3-migrated-2025-11-21-1445
+    jira/project-key: SCRUM
+    jira/label: backstage-component:spring-boot3-migrated-2025-11-21-1445
+spec:
+  type: application
+  owner: ICS
+  lifecycle: experimental
